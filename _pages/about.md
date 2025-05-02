@@ -2,33 +2,49 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. student at <a href="[](https://cse.washu.edu/)" title="washU cse">Computer Science & Engineering @ WashU.</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: peiqi_prof_pic.jpeg
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> peiqi@wustl.edu </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Peiqi Gao(高沛琦), a first year PhD student in Washington University in St. Louis advised by <a href="[](https://engineering.washu.edu/faculty/Chenyang-Lu.html)" title="Chenyang">Dr. Chenyang Lu</a>. I am a member of AI for Health Institute. My research focuses on **Computer Vision**, **Vision Language Models**, **Deep Learning**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Education
+<ul>
+<li>Ph.D. student in Computer Science and Engineering, 2024-Present.
+    <ul>
+    <li> Washington University in St. Louis, United States.</li>
+    <li> Advisor: <a href="[](https://engineering.washu.edu/faculty/Chenyang-Lu.html)" title="Chenyang">Dr. Chenyang Lu</a>.</li>
+    </ul>
+</li>
+<li>M.S. in Computer Science and Engineering, 2023-Present.
+</li>
+<li>B.Eng. in Computer Science and Technology, 2019—2023.
+<ul>
+<li> <a href="[](https://www.whu.edu.cn/)" title="whu">Wuhan University</a>, China.
+</li>
+<li> <a href="[](https://hyxt.whu.edu.cn/)" title="hongyi">Hongyi Honor College of Wuhan Univeristy (武汉大学弘毅学堂)</a>.
+</li>
+</ul>
+</li>
+</ul>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
