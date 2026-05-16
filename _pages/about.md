@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Peiqi Gao(高沛琦), a first year PhD student in Washington University in St. Louis advised by <a href="[](https://engineering.washu.edu/faculty/Chenyang-Lu.html)" title="Chenyang">Dr. Chenyang Lu</a>. I am a member of AI for Health Institute. My research focuses on **Computer Vision**, **Vision Language Models**, **Deep Learning**.
+I am Peiqi Gao(高沛琦), a second year PhD student in Washington University in St. Louis advised by <a href="[](https://engineering.washu.edu/faculty/Chenyang-Lu.html)" title="Chenyang">Dr. Chenyang Lu</a>. I am a member of AI for Health Institute. My research focuses on **Computer Vision**, **Vision Language Models**, **Deep Learning**.
 
 ### Education
 <ul>
